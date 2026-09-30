@@ -330,3 +330,66 @@ blockquote {
   color: var(--muted);
   font-style: italic;
 }
+
+/* Deadlines: a warm accent so due dates stand out against the navy/sky brand palette */
+.due {
+  display: inline-block;
+  background: #fdecea;
+  color: #8a1c14;
+  border: 1px solid #f1b5ae;
+  border-radius: 6px;
+  padding: 2px 10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 0.82rem;
+  white-space: nowrap;
+  margin-right: 6px;
+}
+.due-event { background: var(--navy); color: #fff; border-color: var(--navy); }
+.wk { color: var(--muted); font-size: 0.9rem; margin-right: 8px; }
+.week-dates {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+td.date-col { white-space: nowrap; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; color: var(--navy-dark); }
+td.date-col small { font-weight: 400; color: var(--muted); }
+.deadlines { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 18px 22px; margin: 22px 0 30px; }
+.deadlines h2 { margin-top: 0; }
+.deadline-table tr.past td { color: #9aa3b2; background: #f3f5f8; }
+.deadline-table tr.past .tasktype { opacity: 0.55; }
+.deadline-table tr.next-due td { background: #fff4d6; font-weight: 700; }
+.deadline-table tr.next-due td.date-col::after { content: " ← next"; color: #8a1c14; font-weight: 700; }
+.cal-links { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.btn-cal {
+  display: inline-block;
+  background: var(--navy);
+  color: #fff !important;
+  padding: 7px 14px;
+  border-radius: 6px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+.btn-cal:hover { background: var(--navy-dark); text-decoration: none; }
+.cal-help { color: var(--muted); font-size: 0.9rem; }
+@media (max-width: 700px) {
+  .deadline-table { font-size: 0.88rem; }
+  .deadline-table th:nth-child(2), .deadline-table td:nth-child(2) { display: none; }
+  .deadline-table td.date-col { white-space: nowrap; }
+}
+
+/* Embedded Google Calendar: month grid on wide screens, agenda list on phones */
+.course-calendar { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 18px 22px; margin: 0 0 30px; }
+.course-calendar h2 { margin-top: 0; }
+.cal-frame { width: 100%; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: #fff; }
+.cal-frame iframe { display: block; width: 100%; border: 0; }
+.cal-month iframe { height: 640px; }
+.cal-agenda { display: none; }
+.cal-agenda iframe { height: 560px; }
+@media (max-width: 700px) {
+  .cal-month { display: none; }
+  .cal-agenda { display: block; }
+  .course-calendar { padding: 14px; }
+}
