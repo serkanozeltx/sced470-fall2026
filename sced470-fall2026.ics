@@ -1,0 +1,710 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SCED 470 Fall 2026//Boğaziçi University//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SCED 470 — Fall 2026
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VEVENT
+UID:ed0popcnb00tltav3fv3hu956s@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20260922T080000Z
+DTEND:20260922T100000Z
+SUMMARY:SCED 470 · W1 Tue: Course Launch & Syllabus
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 1: Course Launch & Philosophy of Technology\n\nPlan: wel
+ come and introductions\; syllabus walkthrough (the XP system\, the 12-we
+ ek arc\, Grace Tokens\, Wildcards\, AI-usage statements)\; tour of the c
+ ourse website and Moodle\; introduction to Mission 1 (reflective essay\,
+  written independently). Exit ticket: your gut reaction to "AI as a teac
+ hing collaborator".\n\nCourse website: https://serkanozeltx.github.io/sc
+ ed470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/sced470-fa
+ ll2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:rtuhehbu36e0as8oknh9gtmm3c@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20260924T080000Z
+DTEND:20260924T100000Z
+SUMMARY:SCED 470 · W1 Thu: Introduction to GeoGebra
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 1: Course Launch & Philosophy of Technology\n\nPlan: Geo
+ Gebra interface walkthrough (Graphics View\, Algebra View\, toolbar)\; i
+ nstructor builds a dynamic sketch step by step with the class\; you try 
+ a small variation on your own\; preview of Week 2 GeoGebra practice and 
+ Mission 2.\n\nMission 1 (reflective essay) is written independently outs
+ ide class and is due today.\n\nCourse website: https://serkanozeltx.gith
+ ub.io/sced470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/sc
+ ed470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20260924T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20260924T100000Z
+DTEND:20260924T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:h5ncag4q6ihulvipbh9t5ski1c@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20260924T203000Z
+DTEND:20260924T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 1: Philosophy of Technology Integration
+DESCRIPTION:Mission 1: Philosophy of Technology Integration (reflective e
+ ssay\, 30 XP). Due by 23:59.\n\nLate work: you have 2 Grace Tokens (48-h
+ our extension each\, not for the Capstone). Beyond that\, late work lose
+ s 10% of the item's XP per day for up to 5 days.\n\nTask details: https:
+ //serkanozeltx.github.io/sced470-fall2026/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 1: Philosophy of Technology Integration 
+ (due tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ut3aakt8qsth4fevncmhbevakk@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20260929T080000Z
+DTEND:20260929T100000Z
+SUMMARY:SCED 470 · W2 Tue: TPACK & SAMR → AI-TPACK
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 2: TPACK & SAMR → "AI-TPACK" / GeoGebra\n\nPlan: mini-
+ lecture and discussion on TPACK and SAMR extended into AI-TPACK\; struct
+ ured discussion connecting the frameworks to your Mission 1 beliefs.\nOp
+ tional reading: Mishra & Koehler (2006)\; Puentedura (2014).\n\nBefore T
+ hursday: work through GeoGebra's own quick-start resources and build one
+  basic object (a point\, a slider\, a triangle). Learn GeoGebra Help Cen
+ ter: https://help.geogebra.org/hc/en-us/categories/7841335583005-Learn-G
+ eoGebra · Learn GeoGebra Classic book: https://www.geogebra.org/m/XUv5m
+ XTm · GeoGebra YouTube: https://www.youtube.com/@GeoGebra\n\nCourse web
+ site: https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: ht
+ tps://serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:l67vrcg36j7u3tejo6qid6pp18@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261001T080000Z
+DTEND:20261001T100000Z
+SUMMARY:SCED 470 · W2 Thu: GeoGebra Micro-Build
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 2: TPACK & SAMR → "AI-TPACK" / GeoGebra\n\nCome with y
+ our basic GeoGebra object built at home (see Tuesday's prep).\nPlan: qui
+ ck check of the take-home basics\; guided build of a dynamic sketch that
+  models a real student misconception\; peer check (swap sketches\, test 
+ sliders\, write a "noticing note")\; Mission 2 launch.\n\nMission 2 (Geo
+ Gebra Micro-Build) is due today.\n\nCourse website: https://serkanozeltx
+ .github.io/sced470-fall2026/\nWeekly plans: https://serkanozeltx.github.
+ io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261001T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261001T100000Z
+DTEND:20261001T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pabno3qku8f6a7l06l1kt25f7s@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261001T203000Z
+DTEND:20261001T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 2: GeoGebra Micro-Build
+DESCRIPTION:Mission 2: GeoGebra Micro-Build. Due by 23:59.\n\nLate work: 
+ you have 2 Grace Tokens (48-hour extension each\, not for the Capstone).
+  Beyond that\, late work loses 10% of the item's XP per day for up to 5 
+ days.\n\nTask details: https://serkanozeltx.github.io/sced470-fall2026/t
+ asks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 2: GeoGebra Micro-Build (due tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7m13qk32f39mjlhtqg3v2k2gb4@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261006T080000Z
+DTEND:20261006T100000Z
+SUMMARY:SCED 470 · W3 Tue: AI Literacy & Prompt Engineering
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 3: AI Literacy & Prompt Engineering / AI Worksheet Criti
+ que\n\nPlan: gallery of AI prompts you tried before class\; mini-lecture
+  on prompt engineering for math tasks (specificity\, constraints\, itera
+ tion)\; whole-class live prompting\, critique of the first output\, and 
+ prompt revision\; preview of Mission 3's coteach.ai comparison.\nOptiona
+ l reading: Mollick (2023)\, "The Homework Apocalypse".\n\nCourse website
+ : https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https:
+ //serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:li1mi082h3v2lml4c06s5dbt7o@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261008T080000Z
+DTEND:20261008T100000Z
+SUMMARY:SCED 470 · W3 Thu: AI Worksheet Critique
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 3: AI Literacy & Prompt Engineering / AI Worksheet Criti
+ que\n\nPlan: demo of coteach.ai alongside a general AI tool\; run the sa
+ me prompt in both and compare the two worksheets for mathematical accura
+ cy and pedagogical framing\; pair comparison of notes\; Mission 3 launch
+ .\n\nMission 3 (AI Worksheet Critique) is due today.\n\nCourse website: 
+ https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https://
+ serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261008T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261008T100000Z
+DTEND:20261008T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:jfb80mldhe8ovkmqa908s4g4jk@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261008T203000Z
+DTEND:20261008T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 3: AI Worksheet Critique
+DESCRIPTION:Mission 3: AI Worksheet Critique. Due by 23:59.\n\nLate work:
+  you have 2 Grace Tokens (48-hour extension each\, not for the Capstone)
+ . Beyond that\, late work loses 10% of the item's XP per day for up to 5
+  days.\n\nTask details: https://serkanozeltx.github.io/sced470-fall2026/
+ tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 3: AI Worksheet Critique (due tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r9to3flk3r6fa5o0dia9fufh2k@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261013T080000Z
+DTEND:20261013T100000Z
+SUMMARY:SCED 470 · W4 Tue: Data Moves & CODAP Pedagogy
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 4: Data Moves & Statistical Reasoning / CODAP\n\nPlan: l
+ ook at a messy real dataset and guess a question it could answer\; mini-
+ lecture on data moves and CODAP's role in K-12 data literacy\; discussio
+ n of how data-driven inquiry differs from a traditional statistics works
+ heet.\n\nBefore Thursday: work through CODAP's Educators guide (https://
+ codap.concord.org/educators/) and open one shared practice dataset on yo
+ ur own.\n\nCourse website: https://serkanozeltx.github.io/sced470-fall20
+ 26/\nWeekly plans: https://serkanozeltx.github.io/sced470-fall2026/weekl
+ y-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tb6qbus891o8bp6a7f935ogcks@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261015T080000Z
+DTEND:20261015T100000Z
+SUMMARY:SCED 470 · W4 Thu: CODAP Mini-Investigation
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 4: Data Moves & Statistical Reasoning / CODAP\n\nCome ha
+ ving done the take-home CODAP orientation (see Tuesday's prep).\nPlan: q
+ uick check of building one graph\; guided investigation with your own da
+ taset: build a graph and draft a claim with evidence\; pair check of cla
+ ims against graphs\; Mission 4 launch.\n\nMission 4 (CODAP Mini-Investig
+ ation) is due today.\n\nCourse website: https://serkanozeltx.github.io/s
+ ced470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/sced470-f
+ all2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261015T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:g12lijsah9on2b6p6rp7dnnq2o@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261015T203000Z
+DTEND:20261015T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 4: CODAP Mini-Investigation
+DESCRIPTION:Mission 4: CODAP Mini-Investigation. Due by 23:59.\n\nLate wo
+ rk: you have 2 Grace Tokens (48-hour extension each\, not for the Capsto
+ ne). Beyond that\, late work loses 10% of the item's XP per day for up t
+ o 5 days.\n\nTask details: https://serkanozeltx.github.io/sced470-fall20
+ 26/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 4: CODAP Mini-Investigation (due tomorro
+ w)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7do6uk9g8nvupfk8dd0345930k@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261020T080000Z
+DTEND:20261020T100000Z
+SUMMARY:SCED 470 · W5 Tue: UNESCO AI Competency Framework & Ethics
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 5: UNESCO AI Competency Framework: human-centred mindset
+  & ethics\n\nPlan: vote on an ethical AI-in-the-classroom scenario\; min
+ i-lecture on the framework's five domains\; discussion applying its Acqu
+ ire / Deepen / Create levels to your own progress so far.\nOptional read
+ ing: UNESCO (2024)\, AI competency framework for teachers.\n\nCourse web
+ site: https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: ht
+ tps://serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:0b1mlt0s89fb4ag0lkf4bqfe0k@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261022T080000Z
+DTEND:20261022T100000Z
+SUMMARY:SCED 470 · W5 Thu: Major 1 Work Session · Major 1 Due
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 5: Major 1 Work Session (Digital Toolkit Portfolio). No 
+ new Mission this week.\n\nPlan: read the Major 1 rubric together\; studi
+ o time to revise your strongest GeoGebra\, CODAP and AI artifacts and fi
+ nish the ~400-word rationale\, with individual feedback\; peer check of 
+ rationales\; reminder of the Oct 29 optional async side quest.\n\nMajor 
+ 1 (Digital Toolkit Portfolio) is due today by 23:59.\n\nCourse website: 
+ https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https://
+ serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261022T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:hblrjcdacb6l9ughph0qhkm6kc@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261022T203000Z
+DTEND:20261022T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Major 1: Digital Toolkit Portfolio
+DESCRIPTION:Major 1: Digital Toolkit Portfolio. Due by 23:59 on Thursday\
+ , October 22 (Week 5\, the day of the Major 1 work session).\n\nLate wor
+ k: you have 2 Grace Tokens (48-hour extension each\, not for the Capston
+ e). Beyond that\, late work loses 10% of the item's XP per day for up to
+  5 days.\n\nTask details: https://serkanozeltx.github.io/sced470-fall202
+ 6/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Major 1: Digital Toolkit Portfolio (due tomorrow
+ )
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:56s8dabdqq8lvpgm586o8ct6tc@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261027T080000Z
+DTEND:20261027T100000Z
+SUMMARY:SCED 470 · W6 Tue: Critical Perspectives on EdTech
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 6: Critical Perspectives on EdTech\n\nPlan: "buzzword bi
+ ngo" with edtech marketing language\; discussion of Selwyn's critique\; 
+ structured debate steelmanning both the techno-optimist and the critical
+  position. Reminder: no class this Thursday (Republic Day).\nOptional re
+ ading: Selwyn (2016).\n\nCourse website: https://serkanozeltx.github.io/
+ sced470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/sced470-
+ fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:thursuk4lglst51nh1srahf93k@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · NO CLASS (Republic Day)
+DESCRIPTION:No class on Thursday\, October 29 (Republic Day).\n\nAn optio
+ nal asynchronous bias-audit side quest is posted on Moodle.\n\nCourse we
+ bsite: https://serkanozeltx.github.io/sced470-fall2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:jo2ad2gnclusap2kljnps5qtec@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261103T080000Z
+DTEND:20261103T100000Z
+SUMMARY:SCED 470 · W7 Tue: UDL + AI for Differentiation
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 7: Universal Design for Learning + AI for Differentiatio
+ n\n\nPlan: sort three student profiles by likely support needs\; mini-le
+ cture on UDL and AI for differentiation\; whole-class drafting of a scaf
+ folded and an extension version of one task. Mission 5 will ask you to e
+ xtend Mission 2\, 3 or 4\, so think about which one.\n\nCourse website: 
+ https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https://
+ serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:h12oa86uba91emk70eqjiq8f70@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261105T080000Z
+DTEND:20261105T100000Z
+SUMMARY:SCED 470 · W7 Thu: Differentiation Mini-Task
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 7: Universal Design for Learning + AI for Differentiatio
+ n\n\nPlan: pick which prior Mission (2\, 3 or 4) you will extend\; promp
+ t AI for a scaffolded and an extension version\, check the mathematics y
+ ourself\, and name the UDL principle behind each\; peer check\; Mission 
+ 5 launch.\n\nMission 5 (Differentiation Mini-Task) is due today.\n\nCour
+ se website: https://serkanozeltx.github.io/sced470-fall2026/\nWeekly pla
+ ns: https://serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261105T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261105T100000Z
+DTEND:20261105T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:i33091h594q0e4210bavo4g8os@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261105T203000Z
+DTEND:20261105T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 5: Differentiation Mini-Task
+DESCRIPTION:Mission 5: Differentiation Mini-Task. Due by 23:59.\n\nLate w
+ ork: you have 2 Grace Tokens (48-hour extension each\, not for the Capst
+ one). Beyond that\, late work loses 10% of the item's XP per day for up 
+ to 5 days.\n\nTask details: https://serkanozeltx.github.io/sced470-fall2
+ 026/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 5: Differentiation Mini-Task (due tomorr
+ ow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9sigtpd17agttn21bvfmrjpjc4@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261110T080000Z
+DTEND:20261110T100000Z
+SUMMARY:SCED 470 · W8 Tue: AI-Powered Formative Assessment
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 8: AI-Powered Formative Assessment & real-time feedback\
+ n\nPlan: recall a time a quiz result surprised you\; mini-lecture on AI-
+ generated formative assessment and real-time feedback\; whole-class crit
+ ique of an AI-generated exit ticket.\n\nCourse website: https://serkanoz
+ eltx.github.io/sced470-fall2026/\nWeekly plans: https://serkanozeltx.git
+ hub.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:uvlofr385gn5kab85pjog6ua0o@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261112T080000Z
+DTEND:20261112T100000Z
+SUMMARY:SCED 470 · W8 Thu: AI Formative-Assessment Mini-Task
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 8: AI-Powered Formative Assessment\n\nPlan: share a form
+ ative-assessment idea with a neighbour\; prompt AI for a 3-question exit
+  ticket\, solve it yourself\, and flag and fix any AI errors\; peer chec
+ k\; Mission 6 launch.\n\nMission 6 (AI Formative-Assessment Mini-Task) i
+ s due today.\n\nCourse website: https://serkanozeltx.github.io/sced470-f
+ all2026/\nWeekly plans: https://serkanozeltx.github.io/sced470-fall2026/
+ weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261112T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261112T100000Z
+DTEND:20261112T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:obdcfaj6diqmoh1tcaqhh2oodk@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261112T203000Z
+DTEND:20261112T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 6: AI Formative-Assessment Mini-Task
+DESCRIPTION:Mission 6: AI Formative-Assessment Mini-Task. Due by 23:59.\n
+ \nLate work: you have 2 Grace Tokens (48-hour extension each\, not for t
+ he Capstone). Beyond that\, late work loses 10% of the item's XP per day
+  for up to 5 days.\n\nTask details: https://serkanozeltx.github.io/sced4
+ 70-fall2026/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 6: AI Formative-Assessment Mini-Task (du
+ e tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inrh1g3cqps84qeegg7f8e6ofg@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261117T080000Z
+DTEND:20261117T100000Z
+SUMMARY:SCED 470 · W9 Tue: Computational Thinking in Mathematics
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 9: Computational Thinking\n\nPlan: spot the "algorithm" 
+ in a familiar routine\; mini-lecture on computational thinking practices
+ \; discussion connecting those practices to your AI Usage Log entries so
+  far (bring your log).\nOptional reading: Weintrop et al. (2016).\n\nCou
+ rse website: https://serkanozeltx.github.io/sced470-fall2026/\nWeekly pl
+ ans: https://serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hdvj40ad2pue42mofr7biact5o@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261119T080000Z
+DTEND:20261119T100000Z
+SUMMARY:SCED 470 · W9 Thu: Major 2 Work Session & Peer Review
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 9: Major 2 Work Session (AI Ethics Portfolio)\n\nPlan: c
+ heck that your AI Usage Log is current\; studio time to draft the annota
+ ted lesson artifact and the ethics reflection\, with individual feedback
+ \; peer review round (counts toward Peer Feedback XP).\n\nMajor 2 (AI Et
+ hics Portfolio) is due today.\n\nCourse website: https://serkanozeltx.gi
+ thub.io/sced470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/
+ sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261119T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261119T100000Z
+DTEND:20261119T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:v5j6v3tqk45kaeakfg0jvp6mm0@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261119T203000Z
+DTEND:20261119T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Major 2: AI Ethics Portfolio
+DESCRIPTION:Major 2: AI Professional Ethics & Practice Portfolio (includi
+ ng your AI Usage Log). Due by 23:59.\n\nLate work: you have 2 Grace Toke
+ ns (48-hour extension each\, not for the Capstone). Beyond that\, late w
+ ork loses 10% of the item's XP per day for up to 5 days.\n\nTask details
+ : https://serkanozeltx.github.io/sced470-fall2026/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Major 2: AI Ethics Portfolio (due tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h4035f3ch1e8jsq9hdprrj2rk0@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261124T080000Z
+DTEND:20261124T100000Z
+SUMMARY:SCED 470 · W10 Tue: Backward Design for the Capstone
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 10: Backward Design for AI-Integrated Units (Capstone fr
+ aming)\n\nNothing to prepare\; come ready to think out loud about a math
+  topic and grade band.\nPlan: recall a well-designed unit you experience
+ d as a student\; mini-lecture on designing a unit backward from its lear
+ ning goals\; individual planning time to sketch your own Capstone concep
+ t\, with instructor feedback.\n\nCourse website: https://serkanozeltx.gi
+ thub.io/sced470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/
+ sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:vtcna21j537spgaev802nn3oe0@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261126T080000Z
+DTEND:20261126T100000Z
+SUMMARY:SCED 470 · W10 Thu: Computational Thinking Mini-Task
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 10: Computational Thinking Mini-Task (the last of the 7 
+ Missions)\n\nPlan: pick a procedure (long division\, the quadratic formu
+ la\, etc.)\; write the algorithm or script and name the computational-th
+ inking practice it uses\; peer check\; Mission 7 launch.\n\nMission 7 (C
+ omputational Thinking Mini-Task) is due today.\n\nCourse website: https:
+ //serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https://serkan
+ ozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261126T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261126T100000Z
+DTEND:20261126T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pq75cdi7qc27nt10v7v4sjll6g@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261126T203000Z
+DTEND:20261126T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Mission 7: Computational Thinking Mini-Task
+DESCRIPTION:Mission 7: Computational Thinking Mini-Task (the last of the 
+ 7 Missions). Due by 23:59.\n\nLate work: you have 2 Grace Tokens (48-hou
+ r extension each\, not for the Capstone). Beyond that\, late work loses 
+ 10% of the item's XP per day for up to 5 days.\n\nTask details: https://
+ serkanozeltx.github.io/sced470-fall2026/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Mission 7: Computational Thinking Mini-Task (due
+  tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1smkk25pjgb8so050ib8p169d8@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261201T080000Z
+DTEND:20261201T100000Z
+SUMMARY:SCED 470 · W11 Tue: Ethics\, Equity & the Future of Math Teachin
+ g
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 11: Ethics\, Equity & the Future of Math Teaching\n\nPla
+ n: one hope and one worry about AI in math education five years out\; fi
+ shbowl discussion synthesising the semester's readings and experience. B
+ ring a draft of your Capstone prototype on Thursday.\n\nCourse website: 
+ https://serkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https://
+ serkanozeltx.github.io/sced470-fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g63v7sfkhm577cc4gbnbev53dc@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261203T080000Z
+DTEND:20261203T100000Z
+SUMMARY:SCED 470 · W11 Thu: Capstone Studio & Guild Critique
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 11: Capstone Studio & Guild Critique\n\nBring a draft of
+  your Capstone prototype.\nPlan: post your draft where a partner can see
+  it\; structured peer-review rounds on Capstone prototypes (counts towar
+ d Peer Feedback XP)\; studio time to act on the feedback right away.\n\n
+ Course website: https://serkanozeltx.github.io/sced470-fall2026/\nWeekly
+  plans: https://serkanozeltx.github.io/sced470-fall2026/weekly-plans.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261203T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261203T100000Z
+DTEND:20261203T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:1sshvmr9ql4ls1cg0an1qkd9p8@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261208T080000Z
+DTEND:20261208T100000Z
+SUMMARY:SCED 470 · W12 Tue: Capstone Studio II & Defense Prep
+LOCATION:EF 103\, Boğaziçi University
+DESCRIPTION:Week 12: Capstone Studio II\n\nPlan: share your AI-usage stat
+ ement draft with a neighbour\; studio time for final revisions to the un
+ it plan\; practise the 8–10 minute defense pitch in pairs\, timing eac
+ h other\; logistics for Thursday's submission and the Dec 17 showcase.\n
+ \nCourse website: https://serkanozeltx.github.io/sced470-fall2026/\nWeek
+ ly plans: https://serkanozeltx.github.io/sced470-fall2026/weekly-plans.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:tuejk07ri5oftcuuuboikdmrp4@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261210T080000Z
+DTEND:20261210T100000Z
+SUMMARY:SCED 470 · W12 Thu: Unit Plan & Bookend Due · Course Wrap-Up
+LOCATION:ETB 415\, Boğaziçi University
+DESCRIPTION:Week 12: Course Wrap-Up\n\nPlan: submission window for the fi
+ nal Capstone unit plan and the Philosophy Bookend reflection (revisiting
+  your Mission 1 essay)\; whole-class reflection on how our beliefs about
+  AI as a collaborator shifted\; XP tally preview\; course evaluations\; 
+ sign-up for a Dec 17 showcase slot.\n\nMajor 3 unit plan and Philosophy 
+ Bookend are due today.\n\nCourse website: https://serkanozeltx.github.io
+ /sced470-fall2026/\nWeekly plans: https://serkanozeltx.github.io/sced470
+ -fall2026/weekly-plans.html
+END:VEVENT
+BEGIN:VEVENT
+UID:efbkbve3nmqds1eteqmd36mes0_20261210T100000Z@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261210T100000Z
+DTEND:20261210T110000Z
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Office Hours
+DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, rig
+ ht after class\, or by appointment. No office hours on October 29 (Repub
+ lic Day).\n\nCourse website: https://serkanozeltx.github.io/sced470-fall
+ 2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:74hg5ock1h32kgloff0cdue88s@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART:20261210T203000Z
+DTEND:20261210T205900Z
+TRANSP:TRANSPARENT
+SUMMARY:DUE 23:59 · Major 3: Capstone Unit Plan + Philosophy Bookend
+DESCRIPTION:Major 3: final Capstone unit plan and the Philosophy Bookend 
+ reflection (revisiting your Mission 1 essay). Due by 23:59.\n\nGrace Tok
+ ens cannot be used for the Capstone. The Capstone defense is on Thursday
+ \, December 17.\n\nTask details: https://serkanozeltx.github.io/sced470-
+ fall2026/tasks-faq.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DUE 23:59 · Major 3: Capstone Unit Plan + Philosophy Bookend
+  (due tomorrow)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:olhootcs8l65slhcrtiug18ii0@sced470-fall2026
+DTSTAMP:20260930T035345Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+TRANSP:TRANSPARENT
+SUMMARY:SCED 470 · Capstone Showcase & Final Defense (Major 3)
+DESCRIPTION:Week 13: Capstone Showcase & Final Defense\n\nExtended mini-s
+ eminar format (about 4 hours\, with breaks and light refreshments). Each
+  student presents their Capstone for 8–10 minutes plus Q&A\; final XP 
+ tally at the close. Start time and room will be confirmed in Week 12\, w
+ hen you sign up for a slot.\n\nCourse website: https://serkanozeltx.gith
+ ub.io/sced470-fall2026/
+END:VEVENT
+END:VCALENDAR
