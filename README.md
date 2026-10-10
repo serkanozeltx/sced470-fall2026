@@ -2,8 +2,7 @@
 
 **Digital Technologies in Mathematics Education** · Boğaziçi University · Assoc. Prof. Serkan Özel
 
-This is a static, no-build website that supplements **Moodle** (the official system of record for
-announcements, submissions, and the live XP leaderboard) for SCED 470, Fall 2026. It gives students a
+This is a static, no-build website that is the course hub for SCED 470 (syllabus, schedule, and tasks; submissions and resources are in the students' shared Google Drive folder), Fall 2026. It gives students a
 well-organized, always-available reference for the course's gamified XP assessment model, task
 specifications, and weekly session plans.
 
