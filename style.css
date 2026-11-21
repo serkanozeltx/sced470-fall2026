@@ -202,6 +202,23 @@ tr:nth-child(even) td { background: var(--sky-pale); }
   margin: 16px 0;
 }
 
+.callout-log {
+  background: var(--sky-pale);
+  border: 2px solid var(--navy);
+  border-left-width: 6px;
+  padding: 14px 18px;
+  border-radius: 6px;
+  color: var(--navy-dark);
+  margin: 18px 0;
+}
+.callout-log .callout-title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: var(--navy);
+  margin: 0 0 6px;
+}
+.callout-log p:last-child { margin-bottom: 0; }
+
 .faq-item {
   border: 1px solid var(--border);
   border-radius: 8px;

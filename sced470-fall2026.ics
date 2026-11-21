@@ -489,8 +489,8 @@ DESCRIPTION:Week 9: Computational Thinking\n\nPlan: spot the "algorithm" in
 END:VEVENT
 BEGIN:VEVENT
 UID:hdvj40ad2pue42mofr7biact5o@sced470-fall2026
-DTSTAMP:20260930T035345Z
-SEQUENCE:1
+DTSTAMP:20261121T080000Z
+SEQUENCE:2
 DTSTART:20261119T080000Z
 DTEND:20261119T100000Z
 SUMMARY:SCED 470 · W9 Thu: Major 2 Work Session & Peer Review
@@ -499,7 +499,7 @@ DESCRIPTION:Week 9: Major 2 Work Session (AI Ethics Portfolio)\n\nPlan: che
  ck that your AI Usage Log is current\; studio time to draft the annotated 
  lesson artifact and the ethics reflection\, with individual feedback\; pee
  r review round (counts toward Peer Feedback XP).\n\nMajor 2 (AI Ethics Por
- tfolio) is due Monday\, November 23 at 08:00.\n\nCourse website: https://s
+ tfolio) is due Friday\, November 27 at 08:00.\n\nCourse website: https://s
  erkanozeltx.github.io/sced470-fall2026/\nWeekly plans: https://serkanozelt
  x.github.io/sced470-fall2026/weekly-plans.html
 END:VEVENT
@@ -516,14 +516,14 @@ DESCRIPTION:Office hours with Serkan Özel: Thursdays 13:00–14:00\, right
 END:VEVENT
 BEGIN:VEVENT
 UID:v5j6v3tqk45kaeakfg0jvp6mm0@sced470-fall2026
-DTSTAMP:20260930T035345Z
-SEQUENCE:1
-DTSTART:20261123T043100Z
-DTEND:20261123T050000Z
+DTSTAMP:20261121T080000Z
+SEQUENCE:2
+DTSTART:20261127T043100Z
+DTEND:20261127T050000Z
 TRANSP:TRANSPARENT
 SUMMARY:DUE 08:00 · Major 2: AI Ethics Portfolio
 DESCRIPTION:Major 2: AI Professional Ethics & Practice Portfolio (including
-  your AI Usage Log). Due by 08:00 on Monday\, November 23.\n\nLate work: y
+  your AI Usage Log). Due by 08:00 on Friday\, November 27.\n\nLate work: y
  ou have 2 Grace Tokens (48-hour extension each\, not for the Capstone). Be
  yond that\, late work loses 10% of the item's XP per day for up to 5 days.
  \n\nTask details: https://serkanozeltx.github.io/sced470-fall2026/tasks-fa
